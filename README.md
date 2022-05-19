@@ -1,2 +1,0 @@
-# leeloo
-Begin app
